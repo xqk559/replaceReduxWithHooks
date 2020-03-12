@@ -1,0 +1,14 @@
+.Box {
+    width: 500 px;
+    height: 450 px;
+    text-align: center;
+    padding: 50px;
+}
+
+.Breadtop {
+    height: 100px;
+    width: 80%;
+    background: linear-gradient(#bc581e, #e27b36);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #c15711;
+}
