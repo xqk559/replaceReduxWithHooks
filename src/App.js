@@ -8,7 +8,16 @@ import FavoritesPage from './containers/Favorites';
 const App = props => {
   return (
     <div className = {classes.Box}>&nbsp;
-      <div className = {classes.Breadtop}>&nbsp;</div>
+      <div className = {classes.BreadTop}>&nbsp;
+        <div className = {classes.Seeds}>&nbsp;</div>
+        <div className = {classes.Seeds2}>&nbsp;</div>
+      </div>
+      <div className= {classes.Salad}>&nbsp;</div>
+      <div className= {classes.Salad}>&nbsp;</div>
+      <div className= {classes.Bacon}>&nbsp;</div>
+      <div className= {classes.Cheese}>&nbsp;</div>
+      <div className= {classes.Boca}>&nbsp;</div>
+      <div className= {classes.BreadBottom}>&nbsp;</div>
     </div>
   );
     // <React.Fragment>
